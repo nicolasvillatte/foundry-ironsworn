@@ -49,6 +49,6 @@
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/nicolasvillatte/foundry-ironsworn",
   "manifest": "https://raw.githubusercontent.com/nicolasvillatte/foundry-ironsworn/main/system.json",
-  "download": "",
+  "download": "https://github.com/nicolasvillatte/foundry-ironsworn/archive/main.zip",
   "license": "LICENSE.txt"
 }
